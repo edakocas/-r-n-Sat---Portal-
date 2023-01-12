@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "adi": "aksesuar",
+      "kaytarih": "1668069636299",
+      "duztarih": "1670319142943"
+    },
+    {
+      "id": 2,
+      "adi": "ev eşyası",
+      "kaytarih": "1669493025838",
+      "duztarih": "1670319033875"
+    },
+    {
+      "id": 3,
+      "adi": "kıyafet",
+      "kaytarih": "1670318982107",
+      "duztarih": "1670319045360"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "adsoyad": "Eda",
+      "mail": "eda@mail.com",
+      "admin": "1",
+      "parola": "123",
+      "kaytarih": "1668070115626",
+      "duztarih": "1668085146787"
+    },
+    {
+      "id": 2,
+      "adsoyad": "Ecem",
+      "mail": "ecem@mail.com",
+      "admin": "0",
+      "parola": "123",
+      "kaytarih": "1668070283323",
+      "duztarih": "1668085150210"
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "dersadi": "Kolye",
+      "derskredi": "3",
+      "categoryId": 1,
+      "kaytarih": "1669492454308",
+      "duztarih": "1670319169645"
+    },
+    {
+      "id": 3,
+      "dersadi": "Grafik",
+      "derskredi": "3",
+      "categoryId": "2",
+      "kaytarih": "1669494689375",
+      "duztarih": "1669494713718"
+    }
+  ]
+}
